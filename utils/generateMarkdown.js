@@ -86,6 +86,9 @@ ${data.installation}
 
 ${data.usage}
 
+
+## License
+
 ${licenseSection}
 
 
